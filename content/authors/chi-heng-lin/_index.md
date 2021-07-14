@@ -1,6 +1,6 @@
 ---
-title: Chi-Heng Lin
-avatar_filename: daniil-silantev-ciiscwysoni-unsplash.jpg
+title: "Chi-Heng "
+avatar_filename: null
 social: []
 superuser: false
 ---
