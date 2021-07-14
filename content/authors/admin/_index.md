@@ -1,5 +1,5 @@
 ---
-title: Nelson Bighetti
+title: Chi-Heng Lin
 role: Professor of Artificial Intelligence
 avatar_filename: me.png
 bio: My research interests include distributed robotics, mobile computing and
