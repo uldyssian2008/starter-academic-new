@@ -1,6 +1,6 @@
 ---
 title: Chi-Heng Lin
-role: Professor of Artificial Intelligence
+role: ECE PhD student @ GeorgiaTech
 avatar_filename: me.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
